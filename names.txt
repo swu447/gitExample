@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,swu447,Wu,Sijia
 employee,szhu287,Zhu,Shien
